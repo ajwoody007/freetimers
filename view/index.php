@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Freetimers Test</title>
+        <title>Garderning</title>
         <link rel="stylesheet/less" type="text/css" href="../resources/css/garden.less" />
         <script src="../resources/js/jquery-3.4.1.js"></script>    
         <script src="../resources/js/garden.js"></script>     
@@ -18,7 +18,7 @@
 ?>
 
 <body>
-    <H1>Andy Wood - Technical Test for Freetimers</h1>
+    <H1>Andy Wood - Gardening</h1>
     <form method="POST"  >
 
         <?php
