@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Garderning</title>
+        <title>Gardening</title>
         <link rel="stylesheet/less" type="text/css" href="../resources/css/garden.less" />
         <script src="../resources/js/jquery-3.4.1.js"></script>    
         <script src="../resources/js/garden.js"></script>     
